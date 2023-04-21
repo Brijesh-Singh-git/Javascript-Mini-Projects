@@ -1,5 +1,5 @@
 # Javascript Mini Projects
-This folder consists of exciting and funny Javascript projects that are helpful for every beginner. I made this project to smooth my skills in Javascript.
+This folder consists of exciting Javascript projects that are helpful for every beginner. I made this project to smooth my skills in Javascript.
 
 | S.No|Project Title | Live Preview |
 | :---         |     :---:      |          ---: |
